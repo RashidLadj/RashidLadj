@@ -33,16 +33,16 @@
 <br><br>
 <h3 align="center">Tools:</h3>
     <p align="center"> 
-        <a href='https://postimg.cc/t7jzcsYc' target='_blank'>
+        <a href='https://cmake.org' target='_blank'>
             <img src='https://i.postimg.cc/t7jzcsYc/cmake.png' alt='cmake' width="40" height="40"/>
         </a>
-        <a href="https://git-scm.com/" target="_blank"> 
+        <a href="https://code.visualstudio.com" target="_blank"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VsCode" width="40" height="40"/> 
         </a> 
-        <a href="https://git-scm.com/" target="_blank"> 
+        <a href="https://visualstudio.microsoft.com/fr/" target="_blank"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual_Studio" width="40" height="40"/> 
         </a> 
-        <a href="https://git-scm.com/" target="_blank"> 
+        <a href="https://www.arduino.cc/" target="_blank"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40"/> 
         </a> 
         <a href="https://git-scm.com/" target="_blank"> 
@@ -51,13 +51,13 @@
         <a href="https://www.linux.org/" target="_blank"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
         </a>
-        <a href="https://www.linux.org/" target="_blank"> 
+        <a href="https://www.microsoft.com/fr-fr/windows" target="_blank"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" /> 
         </a>
-        <a href='https://postimg.cc/MfmqZnS5' target='_blank'>
+        <a href='https://docs.microsoft.com/en-us/windows/wsl/' target='_blank'>
             <img src='https://i.postimg.cc/MfmqZnS5/wsl.png'  alt='wsl' width="40" height="40"/>
         </a>
-        <a href="https://d3js.org/" target="_blank"> 
+        <a href="https://www.docker.com" target="_blank"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
         </a>
         <a href="https://www.mysql.com/" target="_blank"> 
@@ -77,14 +77,14 @@
         <a href="https://www.qt.io/" target="_blank"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> 
         </a> 
-        <a href='https://postimg.cc/PP8VGgd3' target='_blank'>
+        <a href='https://www.opengl.org//' target='_blank'>
             <img src='https://i.postimg.cc/PP8VGgd3/opengl-removebg-preview.png'  alt='opengl-removebg-preview' width="80" height="40"/>
         </a>
         <a href="https://opencv.org/" target="_blank"> 
             <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
         </a>
-        <a href="https://www.tensorflow.org" target="_blank"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/langfr-110px-Keras_logo.svg.png" alt="tensorflow" width="40" height="40"/> 
+        <a href="https://keras.io" target="_blank"> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/langfr-110px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> 
         </a>
         <a href="https://www.tensorflow.org" target="_blank"> 
             <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
@@ -92,7 +92,7 @@
         <a href="https://d3js.org/" target="_blank"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> 
         </a>
-        <a href='https://postimages.org/' target='_blank'>
+        <a href='https://dc-js.github.io/dc.js/' target='_blank'>
             <img src='https://i.postimg.cc/Bb6B259J/dcjs-original.png' alt='dcjs' width="40" height="40"/>
         </a>
     </p><br><br>
