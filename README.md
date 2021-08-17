@@ -105,6 +105,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashidLadj&layout=compact&langs_count=10" alt="Rachid-Ladjouzi" />
 </p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RashidLadj" alt="Rachid-Ladjouzi" />
+</p>
+
+
+
 
 
 <!--
